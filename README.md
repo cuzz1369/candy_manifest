@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CandyKat/device_asus_flo" path="device/asus/flo" remote="github" revision="ck44" />
+  <project name="CandyKat/device_asus_grouper" path="device/asus/grouper" remote="github" revision="ck44" />
+  <project name="CandyKat/device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="ck44" />
+  <project name="CandyKat/device_lge_mako" path="device/lge/mako" remote="github" revision="ck44" />
+  <project name="SlimRoms/kernel_asus_flo" path="kernel/asus/flo" remote="github" revision="kk4.4" />
+  <project name="SlimRoms/kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="kk4.4" />
+  <project name="CandyKat/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="ck44" />
+  <project name="SlimRoms/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_qcom" path="vendor/qcom" remote="github" revision="kk4.4" />
+</manifest>
